@@ -13,7 +13,7 @@ def add_session():
 
     print("Session added!")
 
-def view_all():
+def view_all_sessions():
 
     if len(data.subjects) == 0:
         print("No study sessions recorded.")
