@@ -1,3 +1,7 @@
 id,type,commit,status,description,reporter,assignee,due,created,resolved
-1,task,4a39d73,in progress, Created files Data.py tracker.py and main.py, deniel, deniel, March 13th, March 6th, open
-2,task,3adfcc9,closed, main.py functions created, Dhanush, March 7th, open
+1,task,1065b60,completed,Create Issue Tracker,deniel,deniel,march 13th, march 6th, closed
+2,task,4a39d73,in progress, Created files Data.py tracker.py and main.py, deniel, deniel, March 13th, March 6th, open
+3,task,3adfcc9,closed, main.py functions created, Dhanush, March 7th, open
+4,task,2c40dc9,closed,merge pull,deniel,deniel,march 13th,march7th,closed
+5,task,06025a0,closed, View all & summary function,tyler,tyler,march 13th, march 13th,closed
+6,task,3eb4c5e,closed, last changes correcting any mistakes, deniel,deniel,march 13th, march 13th, closed
